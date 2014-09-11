@@ -1,0 +1,12 @@
+# this is ignore file
+tempfile.txt
+#*.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop
+assets/videos/
+!assets/videos/tour_*.mp4
+
+#внимание папки в нутри папок
